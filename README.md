@@ -25,4 +25,6 @@ to the database.
 <br><br>
 Run the java code using main class ServerCore on the server
 <br><br>
+change line 27 in client outgoing to the server ip address (ipv4 if on local network, public ip if port forwarded)
+<br><br>
 Run the java code using main class ClientGui on the Client
