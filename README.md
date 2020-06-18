@@ -8,7 +8,7 @@ Requirements
 -------------
 <br>
 <br>MYSQL Server/MariaDB 
-<br>Java (written in Java 12 but can be compiled for Java 8)
+<br>Java on both client and sever
 <br>Server must be running on a linux device (only tested on ubuntu/debian based distros)
 <br>The sever side application will require the Java MYSQL Driver
 <br><br>
