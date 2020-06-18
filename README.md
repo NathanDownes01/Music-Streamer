@@ -3,7 +3,9 @@
 <br> This is a simple music streaming app where a user can upload .wav audio files <br>
 to a server to be streamed to the client.
 <br><br>
-##  Requirements
+
+Requirements
+-------------
 <br>
 <br>MYSQL Server/MariaDB 
 <br>Java (written in Java 12 but can be compiled for Java 8)
