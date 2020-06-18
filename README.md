@@ -11,8 +11,10 @@ Requirements
 <br>Java (written in Java 12 but can be compiled for Java 8)
 <br>Server must be running on a linux device (only tested on ubuntu/debian based distros)
 <br><br>
+
 Setup
 ------
+<br>
 <br>Run the 'CreateDatabase.sh' script to setup the database. The defualt user<br>
 is root with the default MYSQL password (YES)
 <br>
