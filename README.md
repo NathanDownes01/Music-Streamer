@@ -2,7 +2,6 @@
 <br>
 <br> This is a simple music streaming app where a user can upload .wav audio files <br>
 to a server to be streamed to the client.
-<br> 
 ## Requirements
 <br>
 <br>MYSQL Server/MariaDB 
