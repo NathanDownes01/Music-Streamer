@@ -1,15 +1,15 @@
-#Music Streamer
+# Music Streamer
 <br>
 <br> This is a simple music streaming app where a user can upload .wav audio files <br>
 to a server to be streamed to the client.
 <br><br> 
-##Requirements
+## Requirements
 <br>
 <br>MYSQL Server/MariaDB 
 <br>Java (written in Java 12 but can be compiled for Java 8)
 <br>Server must be running on a linux device (only tested on ubuntu/debian based distros)
 <br><br>
-##Setup
+## Setup
 <br>Run the 'CreateDatabase.sh' script to setup the database. The defualt user<br>
 is root with the default MYSQL password (YES)
 <br>
