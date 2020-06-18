@@ -24,7 +24,7 @@ public class ClientOutgoing {
     private ClientAudioIncoming music;
 
     //this will change to public after port forward
-    private final String serverIp = "86.10.52.77";
+    private final String serverIp = #######
 
 
     //establish connection and start receiver
