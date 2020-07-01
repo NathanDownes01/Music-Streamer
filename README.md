@@ -10,7 +10,7 @@ Requirements
 <br>MYSQL Server/MariaDB 
 <br>Java 8 
 <br>Server must be running on a linux device (only tested on ubuntu/debian based distros)
-<br>The sever side application will require the Java MYSQL Driver (pom.xml will do this automatically)
+<br>The sever side application will require the Java MYSQL Driver (pom.xml will get this automatically)
 <br><br>
 
 Setup
